@@ -1,0 +1,26 @@
+--- FILE HASHES (RIPEMD-160) ---
+LICENSE: b547b01a12ea5c1aa94dff3f966e4bcdb6fe7f54
+LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
+Mixfit.png: 59f3375d6fce2f0e9e68f20cc0ceb1e9fdd79c46
+README.md: c3ada1f0ef9423d2daa544e9d36f8506f3e6ae48
+aec.go: b9f2226c6a556444f8f47b69219911d6d0e3362e
+bundle_font.go: 34439dd7ea34d8ae8f157cec11ab630e9dc70a68
+config.go: a88c618edc40fe2266ff46f04d9e0c0030a07296
+constants.go: 225b87059ddf4531abf0bc1ac4e293dafec0c2da
+esub.go: 8b6be25b41b6f2bb93cdff7ecf68a6bad6f49aa7
+go.mod: cb3993f8da19d040b86af4256c342f08a7d42369
+go.sum: 4f425e85852a0736a869ec4f12111b6a29251eb8
+http.go: c11888d5939d9e98ab774c2f9d54a4bc686b9faf
+main.go: 8345d71e0c0772f009cdbbe7c0c67a68f942842c
+mime.go: a6758c50ecbb029804fb51c08ac825f7af1a44b7
+mix.go: 3a1ff5529de9bf63bf35af02cb935befa5d5bb4d
+nntp.go: 3192e21014c883d0f7aea09f2c5e5d866eb70d11
+proxy.go: ce897138f571385d4f7517d286f9744b202b5a8d
+pubring.go: 42677ec3b6984e132c6cb18eb1b1f8bbadac1f1f
+settings.go: 8bcfc1b8f9e7879440032cd17275373c733babc9
+smtp.go: ac11376384293e108867b3d8c6c0943589411f2f
+types.go: db84e83eadc8e9791a6f247c39a3bb5fe9872ed0
+ui.go: e246ceac7b75a2d604f67b78b45eb0cc1638ee06
+
+--- ROOT HASH (RIPEMD-160) ---
+b39ae2f28fa9651a0ddd4fa9ce57584266143c2d
