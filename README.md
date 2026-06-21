@@ -1,6 +1,6 @@
 # Mixfit YAMN Client   
 
-An easy to use [YAMN](https://github.com/crooks/yamn Mixnet client for anonymous email or Usenet messages.        
+An easy to use [YAMN](https://github.com/crooks/yamn) Mixnet client for anonymous email or Usenet messages.        
 
 It supports [AEC](https://github.com/Ch1ffr3punk/AEC) and with it's proxy settings   
 the usage of the Nym Mixnet or Tor Network.   
