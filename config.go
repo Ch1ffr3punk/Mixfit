@@ -56,6 +56,16 @@ func getDefaultPingerConfig() PingerConfig {
 	return PingerConfig{
 		Pingers: []Pinger{
 			{
+				Name: "Victor",
+				URLs: struct {
+					Pubring string `json:"pubring"`
+					Mlist2  string `json:"mlist2"`
+				}{
+					Pubring: "https://echolot.virebent.art/pubring.mix",
+					Mlist2:  "https://echolot.virebent.art/mlist2.txt",
+				},
+			},
+			{
 				Name: "Frell",
 				URLs: struct {
 					Pubring string `json:"pubring"`
@@ -74,17 +84,7 @@ func getDefaultPingerConfig() PingerConfig {
 					Pubring: "https://www.mixmin.net/yamn/pubring.mix",
 					Mlist2:  "https://www.mixmin.net/yamn/mlist2.txt",
 				},
-			},
-			{
-				Name: "Victor",
-				URLs: struct {
-					Pubring string `json:"pubring"`
-					Mlist2  string `json:"mlist2"`
-				}{
-					Pubring: "https://echolot.virebent.art/pubring.mix",
-					Mlist2:  "https://echolot.virebent.art/mlist2.txt",
-				},
-			},
+			},			
 		},
 		Proxy:          "127.0.0.1:1080",
 		SMTPServer:     "mailrelay.archiade.net",

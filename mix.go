@@ -685,6 +685,11 @@ func (n *Mixfit) buildMixMessage(plainText string, attachment *Attachment, chain
 		if newsgroups := strings.TrimSpace(n.newsgroupsEntry.Text); newsgroups != "" {
 			msg.WriteString("Newsgroups: " + newsgroups + "\n")
 		}
+
+		msg.WriteString("MIME-Version: 1.0\n")
+		msg.WriteString("Content-Type: text/plain; charset=UTF-8\n")
+		msg.WriteString("Content-Transfer-Encoding: 8bit\n")
+
 		msg.WriteString("\n")
 		msg.WriteString(plainText)
 		input = []byte(msg.String())

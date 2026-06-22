@@ -84,7 +84,7 @@ func (n *Mixfit) generateRandomBoundary() (string, error) {
 func (n *Mixfit) createMIMETextPart(plainText string) string {
 	var textPart strings.Builder
 	textPart.WriteString("Content-Type: text/plain; charset=UTF-8\n")
-	textPart.WriteString("Content-Transfer-Encoding: 7bit\n")
+	textPart.WriteString("Content-Transfer-Encoding: 8bit\n")
 	textPart.WriteString("\n")
 	if plainText != "" {
 		textPart.WriteString(plainText + "\n")
