@@ -5,7 +5,7 @@ An easy to use [YAMN](https://github.com/crooks/yamn) Mixnet client for anonymou
 It supports [AEC](https://github.com/Ch1ffr3punk/AEC) and with it's proxy settings   
 the usage of the Nym Mixnet or Tor Network.   
 
-For more information about YAMN visit SEC3's [site](https://www.sec3.net/misc/).     
+For more information about YAMN visit [Victor / YAMN Network Portal](https://yamn.virebent.art/).     
 
 ![Mixfit](img/1.png)
 

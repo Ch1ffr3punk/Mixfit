@@ -2,7 +2,7 @@
 LICENSE: b547b01a12ea5c1aa94dff3f966e4bcdb6fe7f54
 LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
 Mixfit.png: 59f3375d6fce2f0e9e68f20cc0ceb1e9fdd79c46
-README.md: 1c7f8d467cec3158e335dfa46cffb36ab0970fee
+README.md: 5e5461461386484b7948739d61ac7bb5849e5515
 aec.go: b9f2226c6a556444f8f47b69219911d6d0e3362e
 bundle_font.go: 34439dd7ea34d8ae8f157cec11ab630e9dc70a68
 config.go: 157aeeaba85e384a613b43b590081fbec58002e3
@@ -24,4 +24,4 @@ types.go: db84e83eadc8e9791a6f247c39a3bb5fe9872ed0
 ui.go: e246ceac7b75a2d604f67b78b45eb0cc1638ee06
 
 --- ROOT HASH (RIPEMD-160) ---
-8e0da16caba72256cce67887b00c030af9454ef1
+dbcd70c5842a7d658734e00c551ace18aff0daf6
